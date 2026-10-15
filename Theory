@@ -1,0 +1,6 @@
+#Logistic Regression
+Instead of predicting 1 or 0, Logistic Regression models the PROBABILITY of the outcome
+$$P(y=1|x) = \sigma(z) = \frac{1}{1 + e^{-z}}$$
+
+1. Linear Regression 
+2. Binary Regression 
